@@ -11,8 +11,6 @@ trim_file_names <- function(string){
   return(str2)
 }
 
-df = tibble(file = c('data/Dros_c2.tif', 'data/Dros_c1.tif'), count=c(42,32))
-
 df = df %>%
   mutate(image = trim_file_names(file))
 
