@@ -1,3 +1,6 @@
+# Based on example from:
+# http://rforbiochemists.blogspot.com/2016/05/counting-and-identifying-stained-cells.html
+
 library(EBImage)
 
 args = commandArgs(trailingOnly = TRUE)
