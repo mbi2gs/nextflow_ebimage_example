@@ -21,7 +21,8 @@ process count_nuclei {
 
 process plot_nucleus_counts {
     container 'rocker/tidyverse'
-
+    publishDir 'data', mode: 'copy'
+    
     input:
     file i from csv_out.collectFile(name: 'counts.csv', newLine: true)
 
