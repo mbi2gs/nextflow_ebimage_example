@@ -1,0 +1,4 @@
+2018-11-02 21:15:27	1.2s	nauseous_stallman	ERR	5b235c77e32aac5416deba1b0d95bfd4	2c535362-e26b-4e4b-bea2-e23daf0f2f7d	nextflow run main.nf
+2018-11-02 21:16:47	3.3s	zen_gilbert	ERR	df725f85b6fa82982f43712f7acbd136	ab142c7c-c996-4727-8794-1e2884b2ce31	nextflow run main.nf
+2018-11-02 21:29:43	-	deadly_panini	-	95ca8c8db4a0c8ed5f5f33bd34be85f9	7bfa6bf9-96ac-4688-b248-21380684a629	nextflow run main.nf
+2018-11-02 21:31:44	-	nauseous_cray	-	d585833d86ca9ccd261b57f4d43c1bfa	247eac33-d4e8-4b41-9db6-3086ea318cd3	nextflow run main.nf
